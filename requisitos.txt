@@ -1,0 +1,6 @@
+instalar nodejs - npm 
+npm install create-react-app
+cd pastadesejada
+create-react-app nomeprojeto --scripts-version 1.1.5
+cd nomeprojeto
+npm start
